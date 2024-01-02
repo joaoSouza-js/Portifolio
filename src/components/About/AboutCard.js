@@ -11,8 +11,8 @@ function AboutCard() {
             Olá, eu me chamo  João Souza, sou programador <i className="purple">front-end</i> e moro em Mogi das Cruzes, SP. Especialista em React, React Native, Next.js, Node e Prisma.
           </p>
           <p style={{ textAlign: "justify" }}>
-            Atualmente estou trabalhan-do  em empressa chamada Cat-Green, além
-            de participar de Iniciativas  de Comunidades como a Rocketseat
+            Atualmente estou trabalhando em uma empresa chamada Cat-Green, além
+            de participar de Iniciativas e Comunidades como a Rocketseat
           </p>
           <span
             className="purple"
