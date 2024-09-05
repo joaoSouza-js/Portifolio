@@ -23,13 +23,14 @@ const ProjectsList = [
         ghLink: "https://github.com/joaoSouza-js/web-music-player-spotify",
     },
     {
-        title: "Airbnb Clone",
-        imgPath: projectImage09,
+        title: "E Commerce",
+        imgPath: projectImage07,
         description:
-        "Airbnb Clone é uma aplicação que replica a interface e funcionalidades do Airbnb, como integração com mapas e calendário. Utiliza FlashList no front-end para melhorar a renderização de listas e FlatList para criar um carrossel com transições suaves. A busca é integrada à API do Google Places, atualizando resultados conforme a pesquisa do usuário. O calendário permite selecionar datas, e o modal de hóspedes ajusta o número de pessoas. O React Native Maps exibe locais e seus detalhes, e o BottomSheet mostra uma lista de lugares próximos com animações suaves.",
+            "Aplicativo de comércio eletrônico do início ao fim foi um desafio emocionante e gratificante. Ao longo do processo, tive a oportunidade de aprender e aplicar várias tecnologias e conceitos essenciais para criar uma experiência de compra excepcional.",
         isBlog: false,
-        ghLink: "https://github.com/joaoSouza-js/airbnb-clone/edit/main/README.md",
+        ghLink: "https://github.com/joaoSouza-js/ignite_class03_react-native",
     },
+
     {
         title: "Chat",
         imgPath: projectImage01,
@@ -54,6 +55,15 @@ const ProjectsList = [
             "um projeto desenvolvido para ajudar pessoas a encontrar o seu amigo de quatro patas! Este site tem como objetivo facilitar o processo de adoção de animais de estimação, permitindo que os usuários encontrem cães e gatos disponíveis para adoção em sua cidade/estado ou que atendam às suas preferências em termos de idade, energia, independência e tamanho",
         isBlog: false,
         ghLink: "https://github.com/joaoSouza-js/ignite-gci-",
+    },
+
+    {
+        title: "Airbnb Clone",
+        imgPath: projectImage09,
+        description:
+        "Airbnb Clone é uma aplicação que replica a interface e funcionalidades do Airbnb, como integração com mapas e calendário. Utiliza FlashList no front-end para melhorar a renderização de listas e FlatList para criar um carrossel com transições suaves. A busca é integrada à API do Google Places, atualizando resultados conforme a pesquisa do usuário. O calendário permite selecionar datas, e o modal de hóspedes ajusta o número de pessoas. O React Native Maps exibe locais e seus detalhes, e o BottomSheet mostra uma lista de lugares próximos com animações suaves.",
+        isBlog: false,
+        ghLink: "https://github.com/joaoSouza-js/airbnb-clone",
     },
     {
         title: "IgniteCall",
