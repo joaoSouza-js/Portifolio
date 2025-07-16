@@ -23,18 +23,18 @@ function Home2() {
               <strong className="purple">
                 <i> front-end </i>
               </strong>
-              Apaixonado por código há mais 3 anos
+                Apaixonado por código há mais de 3 anos.
 
               <br />
               <br />Especialista em Javascript:
               <i>
-                <strong className="purple"> React , React Native e Node</strong>
+                <strong className="purple"> React, React Native e Node</strong>
               </i>
               <br />
               <br />
               Meu foco principal está na criação de
-              <strong className="purple" > aplicativos </strong> e
-              <strong className="purple" > websites </strong> inovadores, combinando design intuitivo com tecnologias modernas. Tenho paixão por transformar ideias em interfaces elegantes e funcionais.
+              <strong className="purple"> aplicativos </strong> e
+              <strong className="purple"> websites </strong> inovadores, combinando design intuitivo com tecnologias modernas. Tenho paixão por transformar ideias em interfaces elegantes e funcionais.
 
               <br />
               <br />
@@ -45,16 +45,23 @@ function Home2() {
                 <strong className="purple"> Prisma </strong>
               </i>
               para construir
-
               <i>
                 <strong className="purple" style={{ marginLeft: 2 }}>
                   APIs
                 </strong>
-              </i> robustas, garantindo uma integração eficiente entre o <i>front-end </i> e o   <i>back-end</i>.
+              </i>{" "}
+              robustas, garantindo uma integração eficiente entre o <i>front-end</i> e o <i>back-end</i>.
 
-
+              <br />
+              <br />
+              Tenho experiência avançada com o
+              <i>
+                <strong className="purple"> Nice SDK </strong>
+              </i>
+              , aplicando essa poderosa ferramenta na construção de soluções corporativas escaláveis e personalizadas, com foco em performance e experiência do usuário.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
